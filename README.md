@@ -1,2 +1,5 @@
 # Sticky Notes
-https://priyal27032001.github.io/stickynotes/
+## To run locally
+1. download the code
+2. run npm install
+3. rum npm install react
