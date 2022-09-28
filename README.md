@@ -1,1 +1,2 @@
--> You can view the app on https://priyal27032001.github.io/Sticky/.
+# Sticky Notes
+https://priyal27032001.github.io/Sticky/.
